@@ -6,6 +6,7 @@
 - E-mail: kamalovdjalal1212@gmail.com
 - Discord: Dzhalalatdin
 - Phone: 89773578192
+- Telegram: https://t.me/dzhalalatdin
 ***
 ## Расскажу о себе: 
 
