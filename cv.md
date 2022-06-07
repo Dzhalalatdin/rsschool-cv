@@ -36,7 +36,7 @@ function squareSum(numbers){
 - CSS
 - Javascript
 - Git 
-****
+***
 
 ## Опыт работы 
 - Не было опыта
