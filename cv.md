@@ -1,4 +1,4 @@
-# Джалалатдин Камалов
+# Камалов  Джалалатдин
 ## Trainee Frontend Developer
 ***
 ## Контакты: 
@@ -9,6 +9,9 @@
 - Telegram: https://t.me/dzhalalatdin
 ***
 ## Расскажу о себе: 
+Родился в 2000 году в Москве.
+
+![Камалов Джалалатдин](https://sun1-13.userapi.com/s/v1/ig2/LrShKWKO0vCcLNfXLwrYmYKXtOLJHnJCnBtmZ7SPf1G1PEzi1ztB4sUz99xRpg4x-8lnfk7SxtCiwLunTO35AhZy.jpg?size=200x200&quality=95&crop=0,177,746,746&ava=1)
 
 Учеба: Я получаю высшее образование в РТУ МИРЭА, учусь на радио-инженера, заканчиваю 3-й курс, бакалавр. 
 
